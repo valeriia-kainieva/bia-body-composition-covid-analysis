@@ -4,4 +4,6 @@
 
 Analysis of repeated measurements revealed strong negative correlations between body fat and body water (r = -0.99, p < 0.001), as well as between BMI and body water (r = -0.96, p < 0.001), and a strong positive correlation between BMI and body fat (r = 0.96, p < 0.001).
 
+**Note: The data represent a single subject and repeated measurements over time.** The observed correlations are descriptive and should not be interpreted as evidence of general physiological relationships.
+
 **Tools and technologies:** Noerden Minimi (bioelectrical impedance scale), Microsoft Excel, Google Sheets, Microsoft PowerPoint, RStudio.
